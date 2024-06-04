@@ -11,7 +11,7 @@
   "dependencies": {
     "next": "14.1.4",
     "next-auth": "^4.24.7",
-    "openai": "^4.38.1",
+    "openai": "^4.46.0",
     "react": "^18",
     "react-dom": "^18",
     "react-markdown": "^9.0.1"
@@ -20,6 +20,9 @@
     "@types/node": "20.12.7",
     "@types/react": "18.2.79",
     "typescript": "5.4.5"
+  },
+  "prettier": {
+    "singleQuote": false
   },
   "packageManager": "npm@10.4.0+sha1.904025b4d932cfaed8799e644a1c5ae7f02729fc"
 }
